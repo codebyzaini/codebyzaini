@@ -33,19 +33,19 @@
 
 ## 📂 Featured Projects
 
-* 🤖 **n8n AI Model** <a href="https://github.com/Zainab-Irfan/n8n-ai-model"><img src="https://img.shields.io/badge/Repo-n8n%20AI%20Model-181717?logo=github&style=flat"/></a>  
+* 🤖 **n8n AI Model** <a href="https://github.com/codebyzaini/n8n-ai-model"><img src="https://img.shields.io/badge/Repo-n8n%20AI%20Model-181717?logo=github&style=flat"/></a>  
 
   *AI-powered automation workflow using **n8n** to integrate models with tasks.*
 
-* 🕌 **Zakat Calculator (C++)** <a href="https://github.com/Zainab-Irfan/Zakat-Calculator"><img src="https://img.shields.io/badge/Repo-Zakat%20Calculator-181717?logo=github&style=flat"/></a>  
+* 🕌 **Zakat Calculator (C++)** <a href="https://github.com/codebyzaini/Zakat-Calculator"><img src="https://img.shields.io/badge/Repo-Zakat%20Calculator-181717?logo=github&style=flat"/></a>  
 
   *A C++ program to calculate zakat based on assets and savings.*
 
-* 💍 **Zesthatic Jewelry Store** <a href="https://github.com/Zainab-Irfan/Zesthatic-Jewelry-Store"><img src="https://img.shields.io/badge/Repo-Zesthatic%20Store-181717?logo=github&style=flat"/></a> <a href="https://zainab-irfan.github.io/Zesthatic-Jewelry-Store/"><img src="https://img.shields.io/badge/Live%20Demo-Visit-0A66C2?style=flat"/></a>  
+* 💍 **Zesthatic Jewelry Store** <a href="https://github.com/codebyzaini/Zesthatic-Jewelry-Store"><img src="https://img.shields.io/badge/Repo-Zesthatic%20Store-181717?logo=github&style=flat"/></a> <a href="https://codebyzaini.github.io/Zesthatic-Jewelry-Store/"><img src="https://img.shields.io/badge/Live%20Demo-Visit-0A66C2?style=flat"/></a>  
 
   *An elegant jewelry e-commerce site built with **HTML, CSS, and JavaScript**.*
 
-* ❌⭕ **Tic-Tac-Toe (C++)** <a href="https://github.com/Zainab-Irfan/Tic-Tac-Toe"><img src="https://img.shields.io/badge/Repo-Tic%20Tac%20Toe-181717?logo=github&style=flat"/></a>  
+* ❌⭕ **Tic-Tac-Toe (C++)** <a href="https://github.com/codebyzaini/Tic-Tac-Toe"><img src="https://img.shields.io/badge/Repo-Tic%20Tac%20Toe-181717?logo=github&style=flat"/></a>  
 
   *A fun console-based game written in C++.*
 
@@ -55,16 +55,16 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Zainab-Irfan&theme=radical&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=codebyzaini&theme=radical&hide_border=true" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zainab-Irfan&show_icons=true&theme=radical&hide_border=true" alt="Zainab's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyzaini&show_icons=true&theme=radical&hide_border=true" alt="Zainab's GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zainab-Irfan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyzaini&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ## 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zainab-Irfan&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyzaini&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
@@ -80,7 +80,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Zainab-Irfan"><img src="https://img.shields.io/badge/GitHub-Zainab--Irfan-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/codebyzaini"><img src="https://img.shields.io/badge/GitHub-codebyzaini-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/zainab-irfan/"><img src="https://img.shields.io/badge/LinkedIn-Zainab%20Irfan-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 </p>
 
@@ -89,7 +89,7 @@
 ## 👀 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zainab-Irfan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=codebyzaini&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visitor badge"/>
 </p>
 
 ---
