@@ -45,7 +45,7 @@
 
   *An elegant jewelry e-commerce site built with **HTML, CSS, and JavaScript**.*
 
-* ❌⭕ **Tic-Tac-Toe (C++)** <a href="https://github.com/codebyzaini/Tic-Tac-Toe"><img src="https://img.shields.io/badge/Repo-Tic%20Tac%20Toe-181717?logo=github&style=flat"/></a>  
+* ❌⭕ **Tic-Tac-Toe (Html,Css)** <a href="https://github.com/codebyzaini/Tic-Tac-Toe"><img src="https://img.shields.io/badge/Repo-Tic%20Tac%20Toe-181717?logo=github&style=flat"/></a>  
 
   *A fun console-based game written in C++.*
 
@@ -81,7 +81,7 @@
 
 <p align="center">
   <a href="https://github.com/codebyzaini"><img src="https://img.shields.io/badge/GitHub-codebyzaini-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/zainab-irfan/"><img src="https://img.shields.io/badge/LinkedIn-Zainab%20Irfan-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/zainab-irfan-0a6816356/"><img src="https://img.shields.io/badge/LinkedIn-Zainab%20Irfan-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ---
