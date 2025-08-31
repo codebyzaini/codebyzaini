@@ -1,84 +1,97 @@
-<div align="center">
+<!-- Animated Headline -->
 
- 👋 Hi, I'm Zainab Irfan  
- 🎯 Computer Science Student | Frontend Developer | AI & C++ Enthusiast  
-
-<!-- Typing SVG with fallback -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+Python+%7C+Java;Frontend:+React+%7C+HTML+%7C+CSS+%7C+JavaScript;AI+Chatbot+(n8n)+%7C+Project+Builder;Passionate+Learner+%7C+Tech+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zainab+Irfan+%F0%9F%91%8B;C%2B%2B+%7C+Web+Dev+%7C+AI%2FML+Explorer;I+build+things+that+blend+logic+with+design" alt="Typing SVG" />
 </p>
 
-<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codebyzaini&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views" /> 
+  I enjoy building projects that combine <b>creativity</b>, <b>logic</b>, and <b>problem-solving</b>.
+  <br/>
+  Currently exploring <b>C++ apps</b>, <b>Web development</b>, and <b>AI/ML automation</b>.
 </p>
 
 ---
 
-## 🔗 Connect with Me
+## 🚀 Tech Stack
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/zainab-irfan-0a6816356/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/codebyzaini" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="mailto:zainab.irfan2428@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++17"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" alt="C"/>
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4E62?logo=n8n&logoColor=white&style=for-the-badge" alt="n8n"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 📂 Featured Projects
+
+* 🤖 **n8n AI Model** <a href="https://github.com/Zainab-Irfan/n8n-ai-model"><img src="https://img.shields.io/badge/Repo-n8n%20AI%20Model-181717?logo=github&style=flat"/></a>  
+
+  *AI-powered automation workflow using **n8n** to integrate models with tasks.*
+
+* 🕌 **Zakat Calculator (C++)** <a href="https://github.com/Zainab-Irfan/Zakat-Calculator"><img src="https://img.shields.io/badge/Repo-Zakat%20Calculator-181717?logo=github&style=flat"/></a>  
+
+  *A C++ program to calculate zakat based on assets and savings.*
+
+* 💍 **Zesthatic Jewelry Store** <a href="https://github.com/Zainab-Irfan/Zesthatic-Jewelry-Store"><img src="https://img.shields.io/badge/Repo-Zesthatic%20Store-181717?logo=github&style=flat"/></a> <a href="https://zainab-irfan.github.io/Zesthatic-Jewelry-Store/"><img src="https://img.shields.io/badge/Live%20Demo-Visit-0A66C2?style=flat"/></a>  
+
+  *An elegant jewelry e-commerce site built with **HTML, CSS, and JavaScript**.*
+
+* ❌⭕ **Tic-Tac-Toe (C++)** <a href="https://github.com/Zainab-Irfan/Tic-Tac-Toe"><img src="https://img.shields.io/badge/Repo-Tic%20Tac%20Toe-181717?logo=github&style=flat"/></a>  
+
+  *A fun console-based game written in C++.*
+
+---
+
+## 🏆 Achievements & Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,react,js,git,github,vscode" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Zainab-Irfan&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </p>
 
-
----
-
- 📂 Featured Projects  
-
-
-- 💍 [**Zesthetic Jewellers Website**](https://github.com/codebyzaini/Zesthatic_Jewellery_strore)  
-  *A modern frontend project showcasing jewellery products with elegant UI.*  
-
-- 🕌 [**C++ Zakat Calculator**](https://github.com/codebyzaini/Zakat-Calculator)  
-  *A practical project that calculates Zakat using C++ programming concepts.*  
-
-- 🍰 [**Baking Chatbot**](https://github.com/codebyzaini/baking-chatbot)  
-  *A chatbot that assists with baking recipes & tips.*  
-
-- 🎨 [**Tic Tac Toe Game**](https://github.com/codebyzaini/tic-tac-toe)  
-  *Responsive web apps built with **React.js, HTML, CSS, and JavaScript**.*  
-
----
-
-📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/codebyzaini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebyzaini&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyzaini&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    <img height="180em" src="https://streak-stats.demolab.com/?user=codebyzaini&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-
----
-
- 🔥 GitHub Activity Graph
-<div align="center">
-  <a href="https://github.com/codebyzaini">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyzaini&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-  </a>
-</div>
-## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codebyzaini/codebyzaini/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zainab-Irfan&show_icons=true&theme=radical&hide_border=true" alt="Zainab's GitHub stats"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zainab-Irfan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 
-</div>
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zainab-Irfan&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Zainab-Irfan"><img src="https://img.shields.io/badge/GitHub-Zainab--Irfan-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/zainab-irfan/"><img src="https://img.shields.io/badge/LinkedIn-Zainab%20Irfan-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zainab-Irfan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visitor badge"/>
+</p>
+
+---
+
+<p align="center"><i>“Tech is art in motion — every solution is a brushstroke shaping tomorrow.”</i></p>
